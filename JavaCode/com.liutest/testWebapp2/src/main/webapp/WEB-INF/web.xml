@@ -1,0 +1,8 @@
+<servlet>
+  <servlet-name>TestHellWorld</servlet-name>
+  <servlet-class>TestHelloWord</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>TestHelloWorld</servlet-name>
+<url-pattern>TestHelloWorld</url-pattern>
+</servlet-mapping>
